@@ -135,8 +135,13 @@
     "105 FLUTE E.wav",
     "106 FLUTE.wav"
   ],
-  "glittern": ["116 GLITTERN.wav", "126 GLITTERN BASS.wav"],
-  "glittern_phrase": [
+  "gittern": ["116 GLITTERN.wav", "126 GLITTERN BASS.wav"],
+  "git_chrd": [
+    "148 GITRN CHRD A.wav",
+    "149 GITRN CHRD B.wav",
+    "150 GITRN CHRD C.wav"
+  ],
+  "gittern_phrase": [
     "083 GLITTERN A.wav",
     "084 GLITTERN B.wav",
     "085 GLITTERN C.wav",
@@ -158,8 +163,8 @@
     "147 CIT CHRD D.wav"
   ],
   "citole_phrase": ["087 CITOLE A.wav", "088 CITOLE B.wav"],
-  "shawn": ["123 SHAWN.wav"],
-  "shawn_phrase": [
+  "shawm": ["123 SHAWN.wav"],
+  "shawm_phrase": [
     "090 SHAWN MEL.wav",
     "112 SHAWN PHRASE A.wav",
     "113 SHAWN PHRASE B.wav",
@@ -180,11 +185,6 @@
   "jaw_phrase": ["081 JAW A.wav"],
   "gregor": ["121 GREGORIAN VOX.wav"],
   "gregor_phrase": ["094 GREGOR A.wav", "095 GREGOR B.wav"],
-  "gittern": [
-    "148 GITRN CHRD A.wav",
-    "149 GITRN CHRD B.wav",
-    "150 GITRN CHRD C.wav"
-  ],
   "stab": [
     "130 STAB A.wav",
     "131 STAB B.wav",
