@@ -1,29 +1,29 @@
 {
   "_base": "https://raw.githubusercontent.com/jpopesculian/ep1320/main/",
-  "ep1320_bd": [
+  "bd": [
     "001 BATTLE KIK.wav",
     "002 MEDIUM EVIL KIK.wav",
     "003 AXE KIK.wav",
     "004 MEDIKIK.wav",
     "005 ROYAL KIK.wav"
   ],
-  "ep1320_sp": [
+  "sp": [
     "006 STOMP A.wav",
     "007 STOMP B.wav",
     "008 STOMP C.wav",
     "009 STOMP D.wav"
   ],
-  "ep1320_sd": [
+  "sd": [
     "010 FAIR SNARE.wav",
     "011 MARKET SNARE.wav",
     "012 TAMBO SNARE.wav",
     "013 JESTER SNARE.wav",
     "014 TIGHT SNARE.wav"
   ],
-  "ep1320_edge": ["015 EDGE A.wav", "016 EDGE B.wav", "017 EDGE C.wav"],
-  "ep1320_thud": ["018 THUD.wav", "019 BIG CLAP.wav"],
-  "ep1320_cp": ["030 CLAPPER A.wav", "031 CLAPPER B.wav"],
-  "ep1320_tb": [
+  "edge": ["015 EDGE A.wav", "016 EDGE B.wav", "017 EDGE C.wav"],
+  "thud": ["018 THUD.wav", "019 BIG CLAP.wav"],
+  "cp": ["030 CLAPPER A.wav", "031 CLAPPER B.wav"],
+  "tb": [
     "020 TAMBO A.wav",
     "021 TAMBO B.wav",
     "022 TAMBO C.wav",
@@ -35,13 +35,13 @@
     "028 TAMBO SHORT.wav",
     "029 TAMBO CAP.wav"
   ],
-  "ep1320_coco": [
+  "coco": [
     "032 COCONUT A.wav",
     "033 COCONUT B.wav",
     "034 COCONUT C.wav",
     "035 COCONUT D.wav"
   ],
-  "ep1320_debris": [
+  "debris": [
     "036 DROPPER.wav",
     "037 SCRAP.wav",
     "038 JUNK.wav",
@@ -49,7 +49,7 @@
     "040 DEBRIS B.wav",
     "041 RUBBLE.wav"
   ],
-  "ep1320_metal": [
+  "metal": [
     "042 METAL CLANK.wav",
     "043 CHAIN HIT.wav",
     "044 SCRAP BRUSH.wav",
@@ -68,25 +68,21 @@
     "181 SCRAPPER.wav",
     "182 SNAPPER.wav"
   ],
-  "ep1320_ft": [
+  "ft": [
     "046 FRAME TOM A.wav",
     "047 FRAME TOM B.wav",
     "048 FRAME TOM C.wav",
     "049 FRAME TOM D.wav"
   ],
-  "ep1320_wt": ["050 WAR TOM A.wav", "051 WAR TOM B.wav", "052 WAR TOM C.wav"],
-  "ep1320_dt": [
-    "056 DEEP TOM A.wav",
-    "057 DEEP TOM B.wav",
-    "058 DEEP TOM C.wav"
-  ],
-  "ep1320_bt": ["127 TOM BASS.wav"],
-  "ep1320_fd": [
+  "wt": ["050 WAR TOM A.wav", "051 WAR TOM B.wav", "052 WAR TOM C.wav"],
+  "dt": ["056 DEEP TOM A.wav", "057 DEEP TOM B.wav", "058 DEEP TOM C.wav"],
+  "bt": ["127 TOM BASS.wav"],
+  "fd": [
     "053 FRAME DRUM A.wav",
     "054 FRAME DRUM B.wav",
     "055 FRAME DRUM C.wav"
   ],
-  "ep1320_pd": [
+  "pd": [
     "059 PLAGUE DRUM A.wav",
     "060 PLAGUE DRUM B.wav",
     "061 PLAGUE DRUM C.wav",
@@ -99,27 +95,27 @@
     "068 PLAGUE DRUM SOFT.wav",
     "069 PLAGUE DRUM SOF B.wav"
   ],
-  "ep1320_fd_phrase": ["091 FRAME DRUMMER.wav"],
-  "ep1320_drone": [
+  "fd_phrase": ["091 FRAME DRUMMER.wav"],
+  "drone": [
     "070 PIPE DRONE.wav",
     "093 HURDY DRONE.wav",
     "151 DRONE A.wav",
     "152 DRONE B.wav"
   ],
-  "ep1320_fanfare": [
+  "fanfare": [
     "071 FANFARE A.wav",
     "072 FANFARE B.wav",
     "073 FANFARE C.wav",
     "074 FANFARE D.wav",
     "075 FANFARE E.wav"
   ],
-  "ep1320_hurdy": [
+  "hurdy": [
     "153 HURDY CMAJ.wav",
     "154 HURDY CMIN.wav",
     "135 GURDER.wav",
     "117 HURDY GURDY.wav"
   ],
-  "ep1320_hurdy_phrase": [
+  "hurdy_phrase": [
     "076 HURDY A.wav",
     "077 HURDY B.wav",
     "078 HURDY C.wav",
@@ -129,8 +125,8 @@
     "110 GURDY B.wav",
     "111 GURDY C.wav"
   ],
-  "ep1320_flute": ["115 GLUTE.wav"],
-  "ep1320_flute_phrase": [
+  "flute": ["115 GLUTE.wav"],
+  "flute_phrase": [
     "080 FLOOT.wav",
     "101 FLUTE A.wav",
     "102 FLUTE B.wav",
@@ -139,73 +135,69 @@
     "105 FLUTE E.wav",
     "106 FLUTE.wav"
   ],
-  "ep1320_glittern": ["116 GLITTERN.wav", "126 GLITTERN BASS.wav"],
-  "ep1320_glittern_phrase": [
+  "glittern": ["116 GLITTERN.wav", "126 GLITTERN BASS.wav"],
+  "glittern_phrase": [
     "083 GLITTERN A.wav",
     "084 GLITTERN B.wav",
     "085 GLITTERN C.wav",
     "086 GLITTERN D.wav"
   ],
 
-  "ep1320_citole": ["124 CITOLE.wav"],
-  "ep1320_cit_rthm": [
+  "citole": ["124 CITOLE.wav"],
+  "cit_rthm": [
     "096 CITOLE RHYTHM A.wav",
     "097 CITOLE RHYTHM B.wav",
     "098 CITOLE RHYTHM C.wav",
     "099 CITOLE RHYTHM D.wav",
     "100 CITOLE RHYTHM E.wav"
   ],
-  "ep1320_cit_chrd": [
+  "cit_chrd": [
     "144 CIT CHRD A.wav",
     "145 CIT CHRD B.wav",
     "146 CIT CHRD C.wav",
     "147 CIT CHRD D.wav"
   ],
-  "ep1320_citole_phrase": ["087 CITOLE A.wav", "088 CITOLE B.wav"],
-  "ep1320_shawn": ["123 SHAWN.wav"],
-  "ep1320_shawn_phrase": [
+  "citole_phrase": ["087 CITOLE A.wav", "088 CITOLE B.wav"],
+  "shawn": ["123 SHAWN.wav"],
+  "shawn_phrase": [
     "090 SHAWN MEL.wav",
     "112 SHAWN PHRASE A.wav",
     "113 SHAWN PHRASE B.wav",
     "114 SHAWN PHRASE C.wav",
     "123 SHAWN.wav"
   ],
-  "ep1320_bharp": ["120 BOW HARP.wav"],
-  "ep1320_bharp_phrase": ["107 BOW HARP A.wav", "108 BOW HARP B.wav"],
-  "ep1320_brass": [
+  "bharp": ["120 BOW HARP.wav"],
+  "bharp_phrase": ["107 BOW HARP A.wav", "108 BOW HARP B.wav"],
+  "brass": [
     "118 TRUMPET.wav",
     "136 HONK.wav",
     "137 HONK LONG.wav",
     "142 BRASS SWELL.wav"
   ],
-  "ep1320_horn": ["138 HORN A.wav", "139 HORN B.wav", "140 HORN C.wav"],
-  "ep1320_bagpipe": ["119 BAGPIPE.wav", "125 BAGPIPE BASS.wav"],
-  "ep1320_jaw": ["122 MOUTH HARP.wav", "082 JAW B.wav"],
-  "ep1320_jaw_phrase": ["081 JAW A.wav"],
-  "ep1320_gregor": ["121 GREGORIAN VOX.wav"],
-  "ep1320_gregor_phrase": ["094 GREGOR A.wav", "095 GREGOR B.wav"],
-  "ep1320_gittern": [
+  "horn": ["138 HORN A.wav", "139 HORN B.wav", "140 HORN C.wav"],
+  "bagpipe": ["119 BAGPIPE.wav", "125 BAGPIPE BASS.wav"],
+  "jaw": ["122 MOUTH HARP.wav", "082 JAW B.wav"],
+  "jaw_phrase": ["081 JAW A.wav"],
+  "gregor": ["121 GREGORIAN VOX.wav"],
+  "gregor_phrase": ["094 GREGOR A.wav", "095 GREGOR B.wav"],
+  "gittern": [
     "148 GITRN CHRD A.wav",
     "149 GITRN CHRD B.wav",
     "150 GITRN CHRD C.wav"
   ],
-  "ep1320_stab": [
+  "stab": [
     "130 STAB A.wav",
     "131 STAB B.wav",
     "132 STAB C.wav",
     "133 STAB D.wav",
     "134 STAB E.wav"
   ],
-  "ep1320_stabb": ["128 STABB A.wav", "129 STABB B.wav"],
-  "ep1320_bow": ["141 BOW.wav"],
-  "ep1320_drill": ["143 DRILL.wav"],
-  "ep1320_weapon": [
-    "158 BEHEADING.wav",
-    "162 KNIFE THROWER.wav",
-    "163 ARROW HIT.wav"
-  ],
-  "ep1320_oil": ["173 BOIL OIL.wav"],
-  "ep1320_sword": [
+  "stabb": ["128 STABB A.wav", "129 STABB B.wav"],
+  "bow": ["141 BOW.wav"],
+  "drill": ["143 DRILL.wav"],
+  "weapon": ["158 BEHEADING.wav", "162 KNIFE THROWER.wav", "163 ARROW HIT.wav"],
+  "oil": ["173 BOIL OIL.wav"],
+  "sword": [
     "164 BROADSWORD A.wav",
     "165 BROADSWORD B.wav",
     "166 SWORD A.wav",
@@ -216,16 +208,16 @@
     "171 SWORD CLANG.wav",
     "172 SWORD SCRAPE.wav"
   ],
-  "ep1320_crowd": ["177 KINGS CROWD.wav", "180 ROWDY TAVERN.wav"],
-  "ep1320_rock": [
+  "crowd": ["177 KINGS CROWD.wav", "180 ROWDY TAVERN.wav"],
+  "rock": [
     "176 DRAWBRIDGE.wav",
     "183 ROLLING ROCK.wav",
     "184 ROLLING ROCK B.wav",
     "185 WIND M.wav"
   ],
-  "ep1320_whoosh": ["186 WOOSH A.wav", "187 WOOSH B.wav"],
-  "ep1320_breath": ["188 BREATH.wav", "198 FINAL BREATH.wav"],
-  "ep1320_vox_grunt": [
+  "whoosh": ["186 WOOSH A.wav", "187 WOOSH B.wav"],
+  "breath": ["188 BREATH.wav", "198 FINAL BREATH.wav"],
+  "vox_grunt": [
     "189 FIGHT GRUNT A.wav",
     "190 FIGHT GRUNT B.wav",
     "191 FIGHT GRUNT C.wav",
@@ -236,20 +228,20 @@
     "196 GRUNT E.wav",
     "197 GRUNT F.wav"
   ],
-  "ep1320_vox_peasant": [
+  "vox_peasant": [
     "199 PEASANT HEY.wav",
     "200 PEASANT WHEY.wav",
     "201 PEASANT HOO A.wav",
     "202 PEASANT HOO B.wav"
   ],
-  "ep1320_vox_tavern": [
+  "vox_tavern": [
     "203 TAVERN LAUGH A.wav",
     "204 TAVERN LAUGH B.wav",
     "205 TAVERN LAUGH C.wav"
   ],
-  "ep1320_vox_scream": ["206 SCREAM.wav", "209 YELL.wav"],
-  "ep1320_vox_witch": ["207 VVITCH.wav", "208 WITCH LAUGHTER.wav"],
-  "ep1320_animal": [
+  "vox_scream": ["206 SCREAM.wav", "209 YELL.wav"],
+  "vox_witch": ["207 VVITCH.wav", "208 WITCH LAUGHTER.wav"],
+  "animal": [
     "211 CHICKENS.wav",
     "212 COW.wav",
     "213 DONKEY.wav",
